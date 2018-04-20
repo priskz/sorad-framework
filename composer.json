@@ -1,0 +1,24 @@
+{
+    "name": "priskz/sorad-framework",
+    "description": "The Domain Driven Development framework on top of the Laravel framework.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zachary Prisk",
+            "email": "zachary.prisk@gmail.com"
+        }
+    ],
+    "require": {
+        "priskz/laravel-utilities": "~0.0.1",
+        "priskz/payload": "~0.0.1",
+        "priskz/paylorm": "~0.0.1",
+        "priskz/sorad-service-provider": "~0.0.1",
+        "priskz/sorad-service": "~0.0.1",
+        "priskz/sorad-api": "~0.0.1",
+        "priskz/sorad-routes": "~0.0.1",
+        "priskz/sorad-entity": "~0.0.1",
+        "priskz/fyler": "~0.0.1",
+        "priskz/pusher": "~0.0.1",
+        "priskz/sorad-module-core": "~0.0.1"
+    }
+}
