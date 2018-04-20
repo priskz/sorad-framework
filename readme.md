@@ -12,8 +12,6 @@ This package will install all of the packages needed for utilizing "Domain Drive
 
 * [```sorad-api```](https://github.com/priskz/sorad-api) - A service oriented API built around the Responder-Action-Domain pattern.
 
-* [```laravel-extension```](https://github.com/priskz/laravel-extension) - An extension to the Laravel Framework that extends the router, which allows for seamlessly invoking invokable classes. Additionally the core logging funcitonality is extended.
-
 * [```laravel-utilities```](https://github.com/priskz/laravel-utilities) - A tool box of Laravel specific utilties.
 
 * [```fyler```](https://github.com/priskz/fyler) - A SORAD service built to streamline file processing and handling.
