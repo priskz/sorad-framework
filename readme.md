@@ -30,7 +30,7 @@ Add the following to your composer.json "require" schema:
 
 ```
 "require": {
-     "priskz/sorad-framework": "~0.0.1"
+     "priskz/sorad-framework": "~0.1.0"
 }
 ```
 
