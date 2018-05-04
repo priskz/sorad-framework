@@ -9,15 +9,14 @@
         }
     ],
     "require": {
-        "priskz/payload": "~0.0.1",
-        "priskz/paylorm": "~0.0.1",
-        "priskz/sorad-service-provider": "~0.0.1",
-        "priskz/sorad-service": "~0.0.1",
-        "priskz/sorad-api": "~0.0.1",
-        "priskz/sorad-routes": "~0.0.1",
-        "priskz/sorad-entity": "~0.0.1",
-        "priskz/fyler": "~0.0.1",
-        "priskz/pusher": "~0.0.1",
-        "priskz/sorad-module-core": "~0.0.1"
+        "priskz/payload": "~0.1.0",
+        "priskz/paylorm": "~0.1.0",
+        "priskz/sorad-service-provider": "~0.1.0",
+        "priskz/sorad-service": "~0.1.0",
+        "priskz/sorad-api": "~0.1.0",
+        "priskz/sorad-routes": "~0.1.0",
+        "priskz/sorad-entity": "~0.1.0",
+        "priskz/pusher": "~0.1.0",
+        "priskz/sorad-module-core": "~0.1.0"
     }
 }
