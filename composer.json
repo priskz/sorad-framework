@@ -14,6 +14,7 @@
         "priskz/sorad-service-provider": "~0.1.0",
         "priskz/sorad-service": "~0.1.0",
         "priskz/sorad-api": "~0.1.0",
+        "priskz/sorad-rest": "~0.1.0",
         "priskz/sorad-routes": "~0.1.0",
         "priskz/sorad-entity": "~0.1.0",
         "priskz/pusher": "~0.1.0",
